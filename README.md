@@ -2,4 +2,4 @@
 
 |Problem| Folder |Language|
 | ----- | -----  | -----  |
-|[TwoSeone](https://open.kattis.com/problems/twostones)|[link](/TwoSeone)|[c++](/TowStone/towstone.cpp),[java](/TowStone/Stone.java)|
+|[TwoSeone](https://open.kattis.com/problems/twostones)|[link](/TwoStone)|[c++](/TwoStone/towstones.cpp),[java](/TowStone/Stone.java)|
