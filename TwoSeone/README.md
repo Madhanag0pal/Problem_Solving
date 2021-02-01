@@ -1,3 +1,3 @@
-# [TwoSeone](https://open.kattis.com/problems/twostones)
+# [TwoStone](https://open.kattis.com/problems/twostones)
 
 ![TwoStone](/TwoSeone/TwoStone.png)
