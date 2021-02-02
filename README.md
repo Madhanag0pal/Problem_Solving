@@ -9,3 +9,4 @@
 |[GrassSeedInc](/GrassSeedInc)|[link](https://open.kattis.com/problems/grassseed)|[c++](/GrassSeedInc/grassseed.cpp),[java](/GrassSeedInc/grassseed.java),[Python3](/GrassSeedInc/grassseed.py),[Ruby](/GrassSeedInc/grassseed.rb)|
 |[Cetvrta](/Cetvrta)|[link](https://open.kattis.com/problems/cetvrta)|[c++](/Cetvrta/cetvrta.cpp),[java](/Cetvrta/cetvrta.java),[Python3](/Cetvrta/cetvrta.py),[Ruby](/Cetvrta/cetvrta.rb)|
 |[Tarifa](/Tarifa)|[link](https://open.kattis.com/problems/tarifa)|[c++](/Tarifa/tarifa.cpp),[java](/Tarifa/tarifa.java),[Python3](/Tarifa/tarifa.py),[Ruby](/Tarifa/tarifa.rb)|
+|[Carrots](/Carrots)|[link](https://open.kattis.com/problems/carrots)|[c++](/Carrots/carrots.cpp),[java](/Carrots/carrots.java),[Python3](/Carrots/carrots.py),[Ruby](/Carrots/carrots.rb)|
