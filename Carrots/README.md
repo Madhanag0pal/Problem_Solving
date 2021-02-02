@@ -1,3 +1,3 @@
 # [Carrots](https://open.kattis.com/problems/carrots)
 
-![Carrots](/image.png)
+![Carrots](/Carrots/image.png)
