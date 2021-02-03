@@ -1,0 +1,1 @@
+puts (gets.chomp.length < gets.chomp.length) ? "no" : "go"
