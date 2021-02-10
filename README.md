@@ -7,7 +7,7 @@
 |[AddingWords](/AddingWords)|[link](https://open.kattis.com/problems/addingwords)|[Python3](/AddingWords/addingwords.py)|
 |[Carrots](/Carrots)|[link](https://open.kattis.com/problems/carrots)|[c++](/Carrots/carrots.cpp),[java](/Carrots/carrots.java),[Python3](/Carrots/carrots.py),[Ruby](/Carrots/carrots.rb)|
 |[Cetvrta](/Cetvrta)|[link](https://open.kattis.com/problems/cetvrta)|[c++](/Cetvrta/cetvrta.cpp),[java](/Cetvrta/cetvrta.java),[Python3](/Cetvrta/cetvrta.py),[Ruby](/Cetvrta/cetvrta.rb)|
-|[ElectricalOutlets](/ElectricalOutlets)|[linkes](https://open.kattis.com/problems/electricaloutlets)|[c++](/ElectricalOutlets/electricaloutlets.cpp),[Python](/ElectricalOutlets/electricaloutlets.py)|
+|[ElectricalOutlets](/ElectricalOutlets)|[linkes](https://open.kattis.com/problems/electricaloutlets)|[c++](/ElectricalOutlets/electricaloutlets.cpp),[Python#](/ElectricalOutlets/electricaloutlets.py)|
 |[GrassSeedInc](/GrassSeedInc)|[link](https://open.kattis.com/problems/grassseed)|[c++](/GrassSeedInc/grassseed.cpp),[java](/GrassSeedInc/grassseed.java),[Python3](/GrassSeedInc/grassseed.py),[Ruby](/GrassSeedInc/grassseed.rb)|
 |[HarshadNumbers](/HarshadNumbers)|[link]()|[c++](/HarshadNumbers/harshadnumbers.cpp),[java](/HarshadNumbers/harshadnumbers.java),[Python3](/HarshadNumbers/harshadnumbers),[Ruby](/HarshadNumbers/harshadnumbers.rb)|
 |[R2](/R2)|[link](https://open.kattis.com/problems/r2)|[c++](/R2/r2.cpp),[java](/R2/r2.java),[Python3](/R2/r2.py),[Ruby](/R2/r2.rb)|
