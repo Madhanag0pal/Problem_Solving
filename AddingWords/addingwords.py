@@ -17,5 +17,3 @@ for line in sys.stdin:
     else:
         word.clear()
         value.clear()
-
-# https://cpbook.net/methodstosolve?oj=kattis&topic=all&quality=all
